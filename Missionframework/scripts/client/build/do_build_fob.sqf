@@ -14,6 +14,7 @@ _clearedtobuildsector = true;
 FOB_build_in_progress = true;
 publicVariable "FOB_build_in_progress";
 
+/* Allow building FOBs anywhere.
 _idx = 0;
 while { (_idx < (count GRLIB_all_fobs)) && _clearedtobuildfob } do {
     if ( player distance (GRLIB_all_fobs select _idx) < _minfobdist ) then {
@@ -33,6 +34,7 @@ if(_clearedtobuildfob) then {
         _idx = _idx + 1;
     };
 };
+*/
 
 if (!_clearedtobuildfob) then {
     hint format [localize "STR_FOB_BUILDING_IMPOSSIBLE",floor _minfobdist,floor _distfob];
