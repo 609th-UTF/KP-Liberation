@@ -15,7 +15,7 @@ GRLIB_whitelisted_steamids = [
 	"76561198113385803", // Malay
 	"76561198214560504", // Brk
 	"76561198005866005", // Cbmxrider
-	"76561199162903834", // Geo
+	"76561199162903834" // Geo
 ];
 
 // Allowed individual player names. Note that this method is not very secure contrary to SteamIDs.
