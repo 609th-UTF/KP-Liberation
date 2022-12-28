@@ -262,7 +262,7 @@ even if they are not in the commander slot. */
 KP_liberation_commander_actions = [
 	"76561198138667988", // SilK
 	"76561198113385803", // Malay
-	"76561198214560504", // Brk
+	"76561198214560504" // Brk
 ];
 
 /* Whitelist for BI support framework access.
