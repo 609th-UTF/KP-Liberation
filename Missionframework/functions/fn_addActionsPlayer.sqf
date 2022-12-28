@@ -122,12 +122,12 @@ _player addAction [
 
 // ACE Arsenal
 _player addAction [
-    ["<t color='#FFFF00'>", localize "STR_ACE_ARSENAL_ACTION", "</t><img size='2' image='res\ui_arsenal.paa'/>"] joinString "",
+    "<t color='#FFFF00'>ACE ARSENAL</t><img size='2' image='res\ui_arsenal.paa'/>",
     {
         [player, player, true] call ace_arsenal_fnc_openBox;
     },
     nil,
-    -740,
+    -745,
     false,
     true,
     "",

@@ -345,20 +345,6 @@
             <Korean>-- 무기고 --</Korean>
             <Czech>-- ARZENÁL --</Czech>
         </Key>
-        <Key ID="STR_ACE_ARSENAL_ACTION">
-            <Original>-- ACE ARSENAL --</Original>
-            <French>-- ACE ARSENAL --</French>
-            <German>-- ACE ARSENAL --</German>
-            <Spanish>-- ACE ARSENAL --</Spanish>
-            <Russian>-- ACE АРСЕНАЛ --</Russian>
-            <Italian>-- ACE ARSENALE --</Italian>
-            <Chinesesimp>-- ACE 军火库 --</Chinesesimp>
-            <Chinese>-- ACE 軍火庫 --</Chinese>
-            <Turkish>-- ACE ARSENAL --</Turkish>
-            <Portuguese>-- ACE ARSENAL --</Portuguese>
-            <Korean>-- ACE 무기고 --</Korean>
-            <Czech>-- ACE ARZENÁL --</Czech>
-        </Key>
         <Key ID="STR_ACTION_LOAD_BOX">
             <Original>-- LOAD CRATE</Original>
             <French>-- CHARGER MUNITIONS</French>
